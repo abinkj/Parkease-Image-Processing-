@@ -1,1 +1,3 @@
-# Parkease-Image-Processing-
+# Parkease-Image-Processing
+
+The ParkEase Image Processing program is a Python-based solution built with OpenCV to detect available free spaces in parking areas. The program analyzes images or video feeds of the parking lot and calculates the noise difference in each parking slot to determine whether a spot is occupied or vacant. By comparing changes in pixel intensity and patterns, the system accurately identifies free slots in real-time. This data is then used to update parking availability, providing users with a seamless and efficient way to locate vacant parking spaces without physically inspecting the area.
